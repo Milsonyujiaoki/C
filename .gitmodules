@@ -1,0 +1,9 @@
+[submodule "proj-03-ultimate-runtime"]
+	path = proj-03-ultimate-runtime
+	url = https://github.com/Milsonyujiaoki/proj-03-ultimate-runtime.git
+[submodule "proj-01-pong-arcade-fastapi"]
+	path = proj-01-pong-arcade-fastapi
+	url = https://github.com/Milsonyujiaoki/proj-01-pong-arcade-fastapi.git
+[submodule "proj-02-akita"]
+	path = proj-02-akita
+	url = https://github.com/Milsonyujiaoki/proj-02-akita
